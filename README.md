@@ -1,0 +1,1 @@
+# Viewnior.AppImage
